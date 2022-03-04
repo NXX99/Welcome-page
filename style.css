@@ -1,0 +1,17 @@
+*{
+font-family: Sans-serif
+  @keyframes slidein {
+  from {
+    transform: translateX(0%);
+    opacity: 0.0
+  }
+
+  to {
+    transform: translateX(100%);
+    opacity: 1.0
+  }
+}
+}
+body{
+ background color: "black"
+}
