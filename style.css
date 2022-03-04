@@ -15,3 +15,9 @@ font-family: Sans-serif
 body{
  background color: "black"
 }
+button{
+ border-type: "outset";
+  border-weight: 15px;
+  border-radius: 50px;
+  border-color: 151515
+}
